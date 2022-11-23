@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rsailesh98
-- 👀 I’m interested in AI and Perception 
+- 👀 I’m interested in Deep Learning and Computer Vision
 - 🌱 I’m currently pursuing masters in robotics engineering at Worcester Polytechnic Institute 
 - 📫 You can reach out to me at saileshrajagopalan98@gmail.com
 
