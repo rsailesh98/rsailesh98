@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 MS Robotics - WPI<br>👯 🔭 BS Mechanical Engineering - UTD<br>👯 Interests: Computer Vision and Deep Learning <br>⚡ Talk to me about Soccer and Tennis
+🔭 MS Robotics - WPI<br>🔭 BS Mechanical Engineering - UTD<br>👯 Interests: Computer Vision and Deep Learning <br>⚡ Talk to me about Soccer and Tennis
 
 
 ## 🌐 Socials:
